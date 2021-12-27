@@ -1,0 +1,281 @@
+html{
+  scroll-behavior: smooth;
+}
+
+
+body{
+  margin: 0;
+  text-align: center;
+
+}
+
+/* Menu - Bar */
+.menu-bar{
+  position: absolute;
+  top: 20px;
+  height: 100px;
+  right: 20%;
+}
+
+.menu-link{
+  position: relative;
+  top: 35px;
+  font-size: 20px;
+  padding: 10px;
+  text-decoration: none;
+
+}
+
+
+/* Top - Container */
+
+.my-name{
+  margin-top:0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  word-spacing: 10px;
+  color:rgb(159, 157, 161);
+}
+
+.top-paragraph{
+font-family: 'Alice', serif;
+color:rgb(159, 157, 161);
+font-size: 25px;
+margin: 0;
+}
+
+
+.top-container{
+  position: relative;
+  padding-top: 223px;
+  background-color: #E4F9F5;
+  height: 532px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 24%;
+  top: 130px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 292px;
+  left: 25%;
+
+}
+.land{
+  position: relative;
+  top: 100px;
+  height: 300px;
+  width: 90%
+}
+
+.my-face{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 16%;
+  top: 20px;
+}
+
+/* End - Top - Container */
+
+
+/* Middle - Container */
+
+.middle-container{
+  position: relative;
+  top: 50px;
+  height: 100%;
+
+}
+
+.mid-face{
+  height: 150px;
+  width: 150px;
+}
+
+.mid-heading{
+  font-family: 'Alice', serif;
+  color:rgb(159, 157, 161);
+  font-size: 30px;
+}
+
+.mid-para{
+  font-family: 'Alice', serif;
+  color:rgb(111, 109, 112);
+  font-size: 20px;
+  width: 600px;
+  margin: auto;
+}
+
+.first-hr{
+  margin-top: 70px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #cbc2c2;
+  background-color: #ffffff;
+  border-width: 5px;
+  width: 10%;
+}
+
+.second-mid-heading{
+  margin-top: 70px;
+  font-size: 50px;
+  font-family: 'Alice', serif;
+  color:rgb(111, 109, 112);
+  letter-spacing: 2px;
+}
+
+.first-image-section{
+  height: 100px;
+  width: 800px;
+  margin: auto;
+}
+
+.sub-first-image-section{
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+
+.second-mid-face{
+  height: 100%;
+  position: absolute;
+  left: 3px;
+}
+
+.second-hr{
+  position: absolute;
+  top: 42%;
+  left: 13%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #cbc2c2;
+  background-color: #ffffff;
+  border-width: 5px;
+  width: 76%;
+}
+
+.sketchbook{
+  position: absolute;
+    height: 138%;
+    left: 85%;
+    top: -17%;
+
+}
+
+.h2-first{
+  font-family: 'Alice', serif;
+  color:rgb(159, 157, 161);
+  font-size: 25px;
+}
+
+.mid-para-second{
+  font-family: 'Alice', serif;
+  color:rgb(111, 109, 112);
+  font-size: 20px;
+  width: 35%;
+  margin: auto;
+}
+
+
+.second-image-section{
+  position: relative;
+  top: 70px;
+  height: 100px;
+  width: 800px;
+  margin: auto;
+}
+
+.sub-second-image-section{
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.services-icon{
+  position: absolute;
+  top: 22px;
+  left: 0;
+  height: 60px;
+}
+
+.third-hr{
+  position: absolute;
+  top: 42%;
+  left: 7%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #cbc2c2;
+  background-color: #ffffff;
+  border-width: 5px;
+  width: 78%;
+}
+
+.third-mid-face{
+  position: absolute;
+  height: 100px;
+  right: 0;
+}
+
+#fifth-portion{
+  position:relative;
+  top: 70px;
+}
+
+.first-hr{
+  margin-top: 70px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #cbc2c2;
+  background-color: #ffffff;
+  border-width: 5px;
+  width: 10%;
+}
+
+.contact-us{
+  position: relative;
+  top: 100px;
+  height: 50px;
+  width: 200px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: #45b29a;
+}
+
+#contact-para{
+  text-decoration: none;
+  position: relative;
+  top: 16px;
+  text-align: center;
+  color: rgb(71, 70, 73);
+}
+
+/* Bottom - Container */
+
+
+.bottom-container{
+  position: relative;
+  top: 212px;
+ height: 200px;
+ width: 100%;
+ background-color: #C5DED7;
+}
+
+.bottom-para{
+  position: absolute;
+  bottom: 0;
+  left: 40%;
+  color: rgb(64, 63, 65);
+}
+
+
+.bottom-image{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
